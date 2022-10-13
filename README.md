@@ -1,3 +1,3 @@
 # Analiza i bazy danych
-## Natalia Ksiazek
+## Natalia Książek
 ## Grupa 5 - piątek 11:00
