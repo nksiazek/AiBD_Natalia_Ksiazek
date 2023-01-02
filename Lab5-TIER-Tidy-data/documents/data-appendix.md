@@ -1,0 +1,1 @@
+Plik zawierający informacje o zmiennych znajdujących się w plikach analysis-data.
